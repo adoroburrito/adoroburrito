@@ -2,7 +2,7 @@
 
 I'm currently working as a full-stack software engineer @ [Everis Brazil](https://www.everis.com/brazil/pt-br/home-br), mostly using JavaScript, both in the back-end (Node, TypeScript) and the front-end (React.js).
 
-Please see pinned repositories for samples of my code, through my side projects!
+Please see pinned repositories below for samples of my code, through my side projects!
 
 Here is some more info:
 - 🔭 I’m currently working on polishing my online presence and working out

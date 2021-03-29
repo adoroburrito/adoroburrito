@@ -17,11 +17,11 @@ Here is some more info:
 More info?
 ```javascript
 const andre = {
-	originCountry: "Brazil"
-	surname: "Nogueira",
+  originCountry: "Brazil"
+  surname: "Nogueira",
   age: new Date().getFullYear() - 1997,
   website: 'https://nog.dev' ,
-  languages: ['Portuguese', 'English']
+  languages: ['Portuguese', 'English'],
   skills: {
     backend: ['nodejs', 'typescript', 'python'],
     frontend: ['react', 'tailwindcss'],
@@ -38,33 +38,33 @@ const andre = {
       'try to be a cool dude'
     ],
     music: {
-      spotify: 'https://open.spotify.com/user/v1lj2sf5p2hptowbd5m2up7bt?si=4XZ4TFA5Tw-TverZI1s0Pg'
-          genres: [
-          'neo-psychedelic rock',
-            'psychedelic rock',
-            'rock',
-            'metal',
-            'indie'
-        ],
-        favorites: [
-          'Tame Impala',
-            'King Gizzard & The Lizard Wizard',
-            'Tool',
-            'Rage Against the Machine',
-            'Yes',
-            'O Terno'
-        ]
-      },
-      videogames: {
-        genres: ['first person shooters', 'simulation games', 'indie'],
-        favorites: [
-          'Counter-Strike: Global Offensive',
-            'Quake 2',
-            'Doom Eternal',
-            'Dwarf Fortress',
-            'Hades'
-        ]
-      }
+      spotify: 'https://open.spotify.com/user/v1lj2sf5p2hptowbd5m2up7bt?si=4XZ4TFA5Tw-TverZI1s0Pg',
+      genres: [
+      'neo-psychedelic rock',
+        'psychedelic rock',
+        'rock',
+        'metal',
+        'indie'
+      ],
+      favorites: [
+        'Tame Impala',
+          'King Gizzard & The Lizard Wizard',
+          'Tool',
+          'Rage Against the Machine',
+          'Yes',
+          'O Terno'
+      ]
+    },
+    videogames: {
+      genres: ['first person shooters', 'simulation games', 'indie'],
+      favorites: [
+        'Counter-Strike: Global Offensive',
+          'Quake 2',
+          'Doom Eternal',
+          'Dwarf Fortress',
+          'Hades'
+      ]
+    }
 
   }
 }

@@ -42,7 +42,7 @@ const andre = {
     music: {
       spotify: 'https://open.spotify.com/user/v1lj2sf5p2hptowbd5m2up7bt?si=4XZ4TFA5Tw-TverZI1s0Pg',
       genres: [
-      'neo-psychedelic rock',
+        'neo-psychedelic rock',
         'psychedelic rock',
         'rock',
         'metal',
@@ -50,21 +50,21 @@ const andre = {
       ],
       favorites: [
         'Tame Impala',
-          'King Gizzard & The Lizard Wizard',
-          'Tool',
-          'Rage Against the Machine',
-          'Yes',
-          'O Terno'
+        'King Gizzard & The Lizard Wizard',
+        'Tool',
+        'Rage Against the Machine',
+        'Yes',
+        'O Terno'
       ]
     },
     videogames: {
       genres: ['first person shooters', 'simulation games', 'indie'],
       favorites: [
         'Counter-Strike: Global Offensive',
-          'Quake 2',
-          'Doom Eternal',
-          'Dwarf Fortress',
-          'Hades'
+        'Quake 2',
+        'Doom Eternal',
+        'Dwarf Fortress',
+        'Hades'
       ]
     }
 

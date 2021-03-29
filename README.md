@@ -4,6 +4,9 @@ I'm currently working as a full-stack software engineer @ [Everis Brazil](https:
 
 Please see pinned repositories below for samples of my code, through my side projects!
 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estevoandr/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nogjohnson)
+
 Here is some more info:
 - 🔭 I’m currently working on polishing my online presence and working out
 - 🌱 I’m currently learning Cloud and DevOps, through AWS and Terraform, while pursuing my degree on computer science

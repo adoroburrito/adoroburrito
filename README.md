@@ -17,9 +17,11 @@ Here is some more info:
 More info?
 ```javascript
 const andre = {
-  originCountry: "Brazil"
+  originCountry: "Brazil",
   surname: "Nogueira",
   age: new Date().getFullYear() - 1997,
+  heightCentimeters: 188,
+  weightKilograms: 103,
   website: 'https://nog.dev' ,
   languages: ['Portuguese', 'English'],
   skills: {
